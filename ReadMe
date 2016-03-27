@@ -1,0 +1,6 @@
+This program is written to convert from Bed files to manifest files.
+
+After version 1.6 the project is uploaded to github repositories.
+
+To use the program with a user interface python3 and python3-tk packages should be installed.
+
